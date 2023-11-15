@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700030427 source:c:\users\user\onedrive\documents\dijkstra’s algorithm\dijkstra\dijkstra.cpp
+	<iostream>
+	<climits>
+	<vector>
+
